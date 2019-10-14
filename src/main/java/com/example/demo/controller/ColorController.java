@@ -18,8 +18,7 @@ public class ColorController {
 		return colorService.selectAllColor();
 		
 		
-		
-		
+	
 		
 	}
 }
