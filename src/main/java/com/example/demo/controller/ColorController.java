@@ -16,6 +16,5 @@ public class ColorController {
 	@RequestMapping("selectAllColor")
 	public List<Color> test01(){
 		return colorService.selectAllColor();
-		
 	}
 }
